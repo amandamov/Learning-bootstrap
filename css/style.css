@@ -2,3 +2,8 @@ body {
     background-color: brown;
     /* teste */
 }
+
+.navbar {
+    background-color: rgb(74, 72, 70);
+    font-family: Playfair Display,serif;
+}
