@@ -1,8 +1,23 @@
 body {
-    background-color: brown;
+    background-color: rgb(253, 253, 253);
+    padding-top: 56px;
     /* teste */
 }
 
-.card {
-    width: ;
+.navbar {
+    background-color: rgb(74, 72, 70);
+    font-family: Playfair Display,serif;
 }
+
+.menu-title {
+    width: 40%;
+    margin: 0 auto;
+}
+
+.img-detail {
+    height: 100%;
+    width: auto;
+    object-fit: cover;
+    max-width: 100%;
+}
+
