@@ -3,6 +3,11 @@ body {
     /* teste */
 }
 
+.navbar {
+    background-color: rgb(74, 72, 70);
+    font-family: Playfair Display,serif;
+}
+
 footer {
     background-color: black;
     color: white;
@@ -21,3 +26,4 @@ footer {
     align-items: center;
     margin-right: 100px;
 }
+
