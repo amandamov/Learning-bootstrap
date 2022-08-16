@@ -7,3 +7,23 @@ body {
     background-color: rgb(74, 72, 70);
     font-family: Playfair Display,serif;
 }
+
+footer {
+    background-color: black;
+    color: white;
+    padding-bottom: 60px;
+}
+
+.footer {
+    display: flexbox;
+}
+
+.coluna {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-right: 100px;
+}
+
