@@ -7,3 +7,34 @@ body {
     background-color: rgb(74, 72, 70);
     font-family: Playfair Display,serif;
 }
+
+footer {
+    background-color: black;
+    color: white;
+    padding: 60px;
+    font: 16px Lato, sans-serif;
+    margin-top: -6px;
+
+}
+
+.footer {
+    display: flexbox;
+    margin-left: 470px;
+    margin-right: 356px;
+}
+
+.coluna {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+}
+
+h5 {
+    font: 12px Lato, sans-serif;
+}
+
+.icon {
+    margin-right: 25px;
+}
+
