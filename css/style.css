@@ -3,6 +3,11 @@ body {
     /* teste */
 }
 
+.navbar {
+    background-color: rgb(74, 72, 70);
+    font-family: Playfair Display,serif;
+}
+
 footer {
     background-color: black;
     color: white;
@@ -32,3 +37,4 @@ h5 {
 .icon {
     margin-right: 25px;
 }
+
